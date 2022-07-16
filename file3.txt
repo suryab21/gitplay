@@ -1,2 +1,3 @@
 line1
 feaure branch changes inside hardening branch
+there are few more changes in hardening feature branch
