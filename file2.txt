@@ -1,1 +1,2 @@
 line1
+added this line after commiting changes to file1 in master
